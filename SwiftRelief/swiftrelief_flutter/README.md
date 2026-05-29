@@ -1,17 +1,24 @@
-# swiftrelief_flutter
+# SwiftRelief Flutter 📱
 
-A new Flutter project.
+Frontend application for the SwiftRelief intelligent hospital recommendation system.
 
-## Getting Started
+## ✨ Features
+- User-friendly mobile interface
+- Real-time hospital recommendations
+- Location-aware services
+- Emergency-focused design
+- Offline support capabilities
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Material Design
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
